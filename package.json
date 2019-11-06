@@ -27,12 +27,12 @@
     "debug": "^4.1.1",
     "nan": "^2.14.0",
     "ref": "https://github.com/Zane0816/ref",
-    "ref-struct": "^1.1.0"
+    "ref-struct": "https://github.com/Zane0816/ref-struct"
   },
   "devDependencies": {
     "fs-extra": "^0.23.1",
     "mocha": "*",
-    "ref-array": "1"
+    "ref-array": "https://github.com/Zane0816/ref-array"
   },
   "scripts": {
     "test": "node-gyp rebuild --directory test && mocha -gc --reporter spec"

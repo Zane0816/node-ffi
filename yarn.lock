@@ -1328,7 +1328,7 @@ read-pkg@^2.0.0:
 
 "ref@https://github.com/Zane0816/ref":
   version "1.3.5"
-  resolved "https://github.com/Zane0816/ref#b160c2aa6a88cf0a3ed8a5af17af9777b4f026c3"
+  resolved "https://github.com/Zane0816/ref#4e43825c8cfb08292795e1ddb8e930fce4d194ee"
   dependencies:
     bindings "^1.5.0"
     debug "^4.1.1"
